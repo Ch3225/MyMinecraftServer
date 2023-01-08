@@ -1,0 +1,61 @@
+isEnabled: true
+shopName: '[EM] Place 25 scrap!'
+infoButton:
+  material: PLAYER_HEAD
+  name: '&4&lEliteMobs &r&cby &4&lMagmaGuy'
+  lore:
+  - '&8Support the plugins you enjoy!'
+  - '&aClick on &c25 &ascrap in your inventory'
+  - '&ain order to craft item upgrade orbs!'
+  owner: magmaguy
+  customModelID: 31173
+infoButtonSlot: 4
+informationInputButtonSlot: 11
+inputSlots:
+- 19
+- 20
+- 21
+- 28
+- 29
+- 30
+- 37
+- 38
+- 39
+inputInformationButton:
+  material: GREEN_BANNER
+  name: §2Scrap Input slots
+  lore:
+  - §aPut §c25 §ascrap of the same level
+  - §ahere in order to craft an Item Upgrade Orb!
+  customModelID: 31173
+informationOutputButtonSlot: 15
+outputSlots:
+- 23
+- 24
+- 25
+- 32
+- 33
+- 34
+- 41
+- 42
+- 43
+cancelButton:
+  material: BARRIER
+  name: §4Cancel
+  lore:
+  - §cCancel craft!
+  customModelID: 31173
+outputInformationButton:
+  material: RED_BANNER
+  name: §2Elite Orb Output slots
+  lore:
+  - §aPreview what you're crafting here!
+  customModelID: 31173
+cancelButtonSlot: 27
+confirmButton:
+  material: EMERALD
+  name: §2Confirm Craft
+  lore:
+  - §aCraft Item Upgrade Orbs!
+  customModelID: 31174
+confirmScrapSlot: 35

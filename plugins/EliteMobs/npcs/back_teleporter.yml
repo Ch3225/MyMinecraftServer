@@ -1,0 +1,17 @@
+isEnabled: true
+name: Hermes
+role: <Transporter>
+profession: FLETCHER
+spawnLocation: em_adventurers_guild,213.5,88,232,0,0
+spawnLocations: []
+greetings:
+- Welcome to the\nAdventurer's Guild Hub!
+dialog:
+- Need to go back?
+farewell:
+- Safe travels, friend.
+canTalk: true
+activationRadius: 3.0
+interactionType: TELEPORT_BACK
+noPreviousLocationMessage: '&8[EliteMobs] &cCouldn''t send you back to your previous
+  location - no previous location found!'

@@ -1,0 +1,51 @@
+isEnabled: true
+shopName: '[EM] Enhancement menu!'
+infoButtonSlot: 4
+eliteItemInputInformationSlot: 20
+eliteItemInputSlot: 29
+eliteUpgradeOrbInputInformationSlot: 22
+eliteUpgradeOrbInputSlot: 31
+informationOutputButtonSlot: 24
+outputSlot: 33
+infoButton:
+  material: PLAYER_HEAD
+  name: '&4&lEliteMobs &r&cby &4&lMagmaGuy'
+  lore:
+  - '&8Support the plugins you enjoy!'
+  - '&aUse Item Upgrade Orbs one level higher'
+  - ' than your Elite Item in order to'
+  - upgrade Elite Items!
+  owner: magmaguy
+  customModelID: 31173
+eliteItemInputInformationButton:
+  material: GREEN_BANNER
+  name: §2Elite Item Input slots
+  lore:
+  - §aThis slot is for your elite item!
+  customModelID: 31173
+eliteUpgradeOrbInputInformationButton:
+  material: GREEN_BANNER
+  name: §2Upgrade Orb Input slot
+  lore:
+  - §aThis slot is for your Elite Item Upgrade Orb!
+  customModelID: 31173
+cancelButton:
+  material: BARRIER
+  name: §4Cancel
+  lore:
+  - §cCancel upgrade!
+  customModelID: 31173
+outputInformationButton:
+  material: RED_BANNER
+  name: §2Output slots
+  lore:
+  - §aThis slot previews the result of your upgrade!
+  customModelID: 31173
+cancelButtonSlot: 27
+confirmButton:
+  material: EMERALD
+  name: §2Confirm!
+  lore:
+  - §aUpgrade items!
+  customModelID: 31174
+confirmRepairSlot: 35

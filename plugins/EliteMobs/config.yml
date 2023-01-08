@@ -1,0 +1,22 @@
+alwaysShowEliteMobNameTags: false
+superMobStackAmount: 50
+preventEliteCreeperDamageToPassiveMobs: true
+useTitlesForMissingPermissionMessages: true
+preventEliteMobConversionOfNamedMobs: true
+enableHighCompatibilityMode: false
+nightmareWorldSpawnBonus: 0.5
+emLeadsToStatusMenu: true
+otherCommandsLeadToEMStatusMenu: true
+setupDoneV3: true
+preventVanillaReinforcementsForEliteEntities: true
+defaultSpawnLocation: world,-16.0,121.0,16.0,0.0,0.0
+doExplosionRegen: true
+doRegenerateContainers: true
+defaultTransitiveBlockLimiter: 500
+onlyUseBedrockMenus: false
+characterLimitForBookMenuPages: 185
+useGlassToFillMenuEmptySpace: false
+menuUnicodeFormatting: false
+language: english
+noArenaPermissionMessage: '[EliteMobs] You don''t have the permission to enter this
+  arena!'
