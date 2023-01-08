@@ -1,0 +1,86 @@
+prefix: '&a[Shop] &r'
+shopinfo: "&aDÃ¼kkan Bilgisi:\n&fSahip: &7%owner \n&fStok: &7%stock \n&fEÅŸya: &7%item"
+shopinfo_buy: '&7%price &fÃ¼cret karÅŸÄ±lÄ±ÄŸÄ±nda &7%amount &fadet satÄ±n al'
+shopinfo_sell: '&7%price &fÃ¼cret karÅŸÄ±lÄ±ÄŸÄ±nda &7%amount &fadet sat'
+iteminfo: '&aEÅŸya Bilgisi: &r'
+iteminfo_fullname: '&fTam Ä°sim: &7%item'
+iteminfo_shopname: '&fDÃ¼kkan TabelasÄ±: &7%item'
+iteminfo_repaircost: '&fTamir Ãœcreti: &7%cost'
+iteminfo_book: |-
+  &fKitap BaÅŸlÄ±ÄŸÄ±: &7%title
+  &fKitap YazarÄ±: &7%author
+  &fKitap SayfalarÄ±: &7%pages
+iteminfo_book_generation: '&fKitap Jenerasyonu: &7%generation'
+iteminfo_lore: |-
+  &fAÃ§Ä±klama:
+  &r%lore
+METRICS: |-
+  &a[Shop] &fÃ–lÃ§Ã¼tler:
+  &fHesaplar:&7 %accounts
+  &fÄ°ÅŸlem ortalamalarÄ±:&7 %totalTransactions &f(alÄ±ÅŸ:&7 %buyTransactions &fsatÄ±ÅŸ:&7 %sellTransactions&f)
+  &fEÅŸya ticareti ortalamalarÄ±:&7 %totalItems &f(alÄ±nan:&7 %boughtItems &fsatÄ±lan:&7 %soldItems&f)
+ACCESS_DENIED: Bu dÃ¼kkanÄ±n depo konteynerine eriÅŸim izniniz yok!
+TRADE_DENIED: Bu dÃ¼kkanda ticaret yapma izniniz yok!
+TRADE_DENIED_ACCESS_PERMS: EriÅŸiminiz olan dÃ¼kkanlarla ticarete giremezsiniz!
+TRADE_DENIED_CREATIVE_MODE: YaratÄ±cÄ± modda iken dÃ¼kkanlarla ticarete giremezsiniz!
+NOT_ENOUGH_MONEY: Yeteri kadar paranÄ±z yok!
+NOT_ENOUGH_MONEY_SHOP: DÃ¼kkan sahibinin yeteri kadar parasÄ± yok!
+CLIENT_DEPOSIT_FAILED: HesabÄ±nÄ±za depozito iÅŸleminde bir sorun meydana geldi!
+SHOP_DEPOSIT_FAILED: DÃ¼kkan sahibine depozito iÅŸleminde bir sorun oluÅŸtu!
+NO_ECONOMY_ACCOUNT: DÃ¼kkan sahibine ait bir ekonomi hesabÄ± bulunmuyor!
+NO_BUYING_HERE: Burada bir ÅŸeyler satÄ±n alamazsÄ±nÄ±z!
+NO_SELLING_HERE: Burada bir ÅŸeyler satamazsÄ±nÄ±z!
+NOT_ENOUGH_SPACE_IN_INVENTORY: Envanterinizde yeterli boÅŸluk yok!
+NOT_ENOUGH_SPACE_IN_CHEST: SandÄ±kta yeterli boÅŸluk yok!
+NOT_ENOUGH_ITEMS_TO_SELL: Satacak kadar yeterli eÅŸyanÄ±z yok!
+NOT_ENOUGH_SPACE_IN_YOUR_SHOP: |-
+  [%price %item&7 dÃ¼kkan dolul!](&f%seller&7 satÄ±ÅŸ yapmaya Ã§alÄ±ÅŸtÄ±
+  &7DÃ¼nya: &f%world
+  &7Lokasyon: &f%x/%y/%z)
+NOT_ENOUGH_STOCK: Bu dÃ¼kkanÄ±n stoklarÄ± tÃ¼kenmiÅŸ.
+NOT_ENOUGH_STOCK_IN_YOUR_SHOP: |-
+  [%price %item&7 dÃ¼kkanÄ±n stoklarÄ± dÃ¼kenmiÅŸ!](&f%buyer&7 satÄ±n almaya Ã§alÄ±ÅŸtÄ±
+  &7DÃ¼nya: &f%world
+  &7Lokasyon: &f%x/%y/%z)
+YOU_BOUGHT_FROM_SHOP: '%owner isimli kiÅŸiden %price para karÅŸÄ±lÄ±ÄŸÄ±nda %item
+  satÄ±n aldÄ±n.'
+SOMEBODY_BOUGHT_FROM_YOUR_SHOP: |-
+  [%buyer %price karÅŸÄ±lÄ±ÄŸÄ±nda %item satÄ±n aldÄ±.](&7DÃ¼nya: &f%world
+  &7Lokasyon: &f%x/%y/%z)
+YOU_SOLD_TO_SHOP: '%buyer isimli kiÅŸiye %price karÅŸÄ±lÄ±ÄŸÄ±nda %item sattÄ±nÄ±z.'
+SOMEBODY_SOLD_TO_YOUR_SHOP: |-
+  [%seller %price karÅŸÄ±lÄ±ÄŸÄ±nda %item sattÄ±.](&7DÃ¼nya: &f%world
+  &7Lokasyon: &f%x/%y/%z)
+YOU_CANNOT_CREATE_SHOP: Bu tÃ¼r bir dÃ¼kkan oluÅŸturamazsÄ±nÄ±z!
+NO_CHEST_DETECTED: Herhangi bir sandÄ±k bulunamadÄ±!
+INVALID_SHOP_DETECTED: DÃ¼kkan kullanÄ±lamaz!
+INVALID_SHOP_PRICE: DÃ¼kkan Ã¼creti geÃ§ersiz!
+INVALID_SHOP_QUANTITY: DÃ¼kkan Ã¼rÃ¼n miktarÄ± geÃ§ersiz!
+CANNOT_ACCESS_THE_CHEST: Bu sandÄ±ÄŸa eriÅŸebilme yetkiniz yok!
+SELL_PRICE_HIGHER_THAN_BUY_PRICE: Sell price is above the buy price!
+SELL_PRICE_ABOVE_MAX: '%price satÄ±ÅŸ Ã¼creti, %maxprice olan maksimum Ã¼cretten yÃ¼ksek!'
+SELL_PRICE_BELOW_MIN: '%price satÄ±ÅŸ Ã¼creti, %minprice olan minimum Ã¼cretten dÃ¼ÅŸÃ¼k!'
+BUY_PRICE_ABOVE_MAX: '%price satÄ±n alma Ã¼creti, %maxprice olan maksimum Ã¼cretten
+  yÃ¼ksek!'
+BUY_PRICE_BELOW_MIN: '%price satÄ±n alma Ã¼creti, %minprice olan minimum Ã¼cretten
+  dÃ¼ÅŸÃ¼k!'
+CLICK_TO_AUTOFILL_ITEM: Bu dÃ¼kkan iÃ§in bulunan Ã¶ÄŸenin bulunduÄŸu tabelaya tÄ±klayÄ±n!
+NO_ITEM_IN_HAND: Otomatik doldurmak iÃ§in elinde bir eÅŸyan yok!
+PROTECTED_SHOP: DÃ¼kkan baÅŸarÄ±yla LWC ile korundu!
+PROTECTED_SHOP_SIGN: DÃ¼kkan tabelasÄ± baÅŸarÄ±yla LWC ile korundu!
+SHOP_CREATED: DÃ¼kkan baÅŸarÄ±yla oluÅŸturuldu!
+SHOP_FEE_PAID: '%amount Ã¶dedin.'
+SHOP_REFUNDED: '%amount iade aldÄ±n.'
+ITEM_GIVEN: '%player isimli kiÅŸiye %item verildi.'
+RESTRICTED_SIGN_CREATED: Tabela baÅŸarÄ±yla oluÅŸturuldu!
+PLAYER_NOT_FOUND: Oyuncu bulunamadÄ±!
+NO_PERMISSION: Bunu yapma yetkin yok!
+INCORRECT_ITEM_ID: GeÃ§ersiz bir eÅŸya kodu girdin!
+INVALID_CLIENT_NAME: KullanÄ±cÄ± adÄ±n geÃ§erli bir Minecraft kullanÄ±cÄ± adÄ± deÄŸil!
+NOT_ENOUGH_PROTECTIONS: Koruma oluÅŸturulamadÄ±!
+NO_SHOP_FOUND: DÃ¼kkan bulunamadÄ±.
+CANNOT_CREATE_SHOP_HERE: Burada dÃ¼kkan oluÅŸturamazsÄ±n!
+TOGGLE_MESSAGES_OFF: ArtÄ±k dÃ¼kkan(lar)Ä±ndan bildirimler almayacaksÄ±n.
+TOGGLE_MESSAGES_ON: ArtÄ±k dÃ¼kkan(lar)Ä±ndan bildirimler alacaksÄ±n.
+TOGGLE_ACCESS_ON: ArtÄ±k eriÅŸimin olan dÃ¼kkanlarda ticaret yapamayacaksÄ±n.
+TOGGLE_ACCESS_OFF: ArtÄ±k eriÅŸimin olan dÃ¼kkanlarda ticaret yapabileceksin.

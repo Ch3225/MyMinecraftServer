@@ -292,7 +292,7 @@ join_events:
 
 join_settings:
   # Should we teleport the player to the spawn point (if set) on join?
-  spawn_join: false
+  spawn_join: true
   # Should we heal the player?
   heal: false
   # Should we extinguish the player?

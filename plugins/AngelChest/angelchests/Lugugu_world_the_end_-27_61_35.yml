@@ -1,0 +1,384 @@
+angelchest-saveversion: 2
+uniqueId: 3b873d8d-c699-4653-9fb7-4c3949048674
+worldid: a1c24c8f-8528-449b-b902-14d2dac40da2
+x: -27
+y: 61
+z: 35
+infinite: true
+owner: fe0742e8-4aca-3e0e-9122-c5e3f7fe4e6a
+isProtected: false
+secondsLeft: -1422
+unlockIn: -1
+created: 1673166046240
+experience: 100
+levels: 0
+price: 0.0
+customblock:
+  entities: []
+  location:
+    worldid: a1c24c8f-8528-449b-b902-14d2dac40da2
+    x: -27
+    y: 61
+    z: 35
+  id: minecraft:CHEST
+  originalBlockData: minecraft:air
+deathCause:
+  damageCause: ENTITY_ATTACK
+  killer: ENDERMAN
+opened-by: []
+logfile: Lugugu_world_the_end_2023-01-08_17-20-46.log
+storageInv:
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: SNOWBALL
+  amount: 16
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: SNOWBALL
+  amount: 16
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: SNOWBALL
+  amount: 16
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: SNOWBALL
+  amount: 16
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: SNOWBALL
+  amount: 12
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: BOW
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: JUNGLE_LOG
+- null
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: POTION
+  meta:
+    ==: ItemMeta
+    meta-type: POTION
+    potion-type: minecraft:luck
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: BAMBOO
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: NETHERITE_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"Goblin
+      Cleaver"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"---------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<"},{"bold":true,"italic":false,"strikethrough":false,"color":"gray","text":"Equip
+      Info"},{"bold":false,"italic":false,"color":"gray","text":">"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"---------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Item
+      level: "},{"italic":false,"color":"white","text":"6 "},{"italic":false,"color":"gray","text":"Prestige
+      "},{"italic":false,"color":"gold","text":"0"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Elite
+      DPS: "},{"italic":false,"color":"dark_green","text":"10.0"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Soulbound
+      to "},{"italic":false,"color":"white","text":"Lugugu"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Looted
+      from "},{"italic":false,"color":"dark_red","text":"「"},{"italic":false,"color":"red","text":"1"},{"italic":false,"color":"dark_red","text":"」"},{"italic":false,"color":"white","text":"
+      "},{"italic":false,"color":"red","text":"Weapons Goblin"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"-----------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<
+      "},{"bold":true,"italic":false,"color":"white","text":"Lore"},{"bold":false,"italic":false,"color":"gray","text":"
+      >"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"-----------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"A
+      treasure among goblins!"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"--------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<"},{"bold":true,"italic":false,"color":"blue","text":"Enchantments"},{"bold":false,"italic":false,"color":"gray","text":">"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"--------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"◇"},{"italic":false,"color":"gray","text":"Knockback
+      1"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"◇"},{"italic":false,"color":"gray","text":"Looting
+      3"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"◇"},{"italic":false,"color":"gray","text":"Smite
+      1"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"----------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<
+      "},{"bold":true,"italic":false,"color":"dark_purple","text":"Effects"},{"bold":false,"italic":false,"color":"gray","text":"
+      >"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"----------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_purple","text":"◇Poison"},{"italic":false,"color":"dark_red","text":"⚔☠
+      1"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"-----------------------------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Sells
+      for 4.95 Elite Coins"}],"text":""}'
+    enchants:
+      KNOCKBACK: 1
+      LOOT_BONUS_MOBS: 3
+      DAMAGE_UNDEAD: 1
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES
+    PublicBukkitValues:
+      elitemobs:itemsource: §7Looted from §4「§c1§4」§f §cWeapons Goblin
+      elitemobs:soulbind: fe0742e8-4aca-3e0e-9122-c5e3f7fe4e6a
+      elitemobs:prestige: 0i
+      minecraft:smite: 1i
+      elitemobs:onhitpotioneffect: 'POISON,0,target,onHit:'
+      elitemobs:elitemobsitem: 1b
+      elitemobs:customlore: §8A treasure among goblins!
+      elitemobs:itemvalue: 99.0d
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: NETHERITE_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"Goblin
+      Slasher"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"---------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<"},{"bold":true,"italic":false,"strikethrough":false,"color":"gray","text":"Equip
+      Info"},{"bold":false,"italic":false,"color":"gray","text":">"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"---------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Item
+      level: "},{"italic":false,"color":"white","text":"8 "},{"italic":false,"color":"gray","text":"Prestige
+      "},{"italic":false,"color":"gold","text":"0"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Elite
+      DPS: "},{"italic":false,"color":"dark_green","text":"12.8"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Soulbound
+      to "},{"italic":false,"color":"white","text":"Lugugu"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Looted
+      from "},{"italic":false,"color":"dark_red","text":"「"},{"italic":false,"color":"red","text":"1"},{"italic":false,"color":"dark_red","text":"」"},{"italic":false,"color":"white","text":"
+      "},{"italic":false,"color":"red","text":"Weapons Goblin"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"-----------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<
+      "},{"bold":true,"italic":false,"color":"white","text":"Lore"},{"bold":false,"italic":false,"color":"gray","text":"
+      >"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"-----------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"A
+      treasure among goblins!"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"--------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<"},{"bold":true,"italic":false,"color":"blue","text":"Enchantments"},{"bold":false,"italic":false,"color":"gray","text":">"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"--------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"◇"},{"italic":false,"color":"gray","text":"Knockback
+      1"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"◇"},{"italic":false,"color":"gray","text":"Looting
+      3"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"◇"},{"italic":false,"color":"gray","text":"Unbreaking
+      1"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"----------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<
+      "},{"bold":true,"italic":false,"color":"dark_purple","text":"Effects"},{"bold":false,"italic":false,"color":"gray","text":"
+      >"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"----------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_purple","text":"◇Haste"},{"italic":false,"color":"blue","text":"⚔🛡
+      1"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"-----------------------------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Sells
+      for 7.8 Elite Coins"}],"text":""}'
+    enchants:
+      KNOCKBACK: 1
+      LOOT_BONUS_MOBS: 3
+      DURABILITY: 1
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES
+    PublicBukkitValues:
+      elitemobs:itemsource: §7Looted from §4「§c1§4」§f §cWeapons Goblin
+      elitemobs:soulbind: fe0742e8-4aca-3e0e-9122-c5e3f7fe4e6a
+      elitemobs:prestige: 0i
+      elitemobs:onhitpotioneffect: 'FAST_DIGGING,0,self,onHit:'
+      elitemobs:elitemobsitem: 1b
+      elitemobs:customlore: §8A treasure among goblins!
+      elitemobs:itemvalue: 156.0d
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: NETHERITE_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"Goblin
+      Cleaver"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"---------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<"},{"bold":true,"italic":false,"strikethrough":false,"color":"gray","text":"Equip
+      Info"},{"bold":false,"italic":false,"color":"gray","text":">"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"---------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Item
+      level: "},{"italic":false,"color":"white","text":"6 "},{"italic":false,"color":"gray","text":"Prestige
+      "},{"italic":false,"color":"gold","text":"0"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Elite
+      DPS: "},{"italic":false,"color":"dark_green","text":"10.0"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Soulbound
+      to "},{"italic":false,"color":"white","text":"Lugugu"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Looted
+      from "},{"italic":false,"color":"dark_red","text":"「"},{"italic":false,"color":"red","text":"1"},{"italic":false,"color":"dark_red","text":"」"},{"italic":false,"color":"white","text":"
+      "},{"italic":false,"color":"red","text":"Weapons Goblin"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"-----------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<
+      "},{"bold":true,"italic":false,"color":"white","text":"Lore"},{"bold":false,"italic":false,"color":"gray","text":"
+      >"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"-----------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"A
+      treasure among goblins!"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"--------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<"},{"bold":true,"italic":false,"color":"blue","text":"Enchantments"},{"bold":false,"italic":false,"color":"gray","text":">"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"--------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"◇"},{"italic":false,"color":"gray","text":"Knockback
+      1"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"◇"},{"italic":false,"color":"gray","text":"Looting
+      3"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"◇"},{"italic":false,"color":"gray","text":"Smite
+      1"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"----------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<
+      "},{"bold":true,"italic":false,"color":"dark_purple","text":"Effects"},{"bold":false,"italic":false,"color":"gray","text":"
+      >"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"----------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_purple","text":"◇Poison"},{"italic":false,"color":"dark_red","text":"⚔☠
+      1"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"-----------------------------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Sells
+      for 4.95 Elite Coins"}],"text":""}'
+    enchants:
+      KNOCKBACK: 1
+      LOOT_BONUS_MOBS: 3
+      DAMAGE_UNDEAD: 1
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES
+    PublicBukkitValues:
+      elitemobs:itemsource: §7Looted from §4「§c1§4」§f §cWeapons Goblin
+      elitemobs:soulbind: fe0742e8-4aca-3e0e-9122-c5e3f7fe4e6a
+      elitemobs:prestige: 0i
+      minecraft:smite: 1i
+      elitemobs:onhitpotioneffect: 'POISON,0,target,onHit:'
+      elitemobs:elitemobsitem: 1b
+      elitemobs:customlore: §8A treasure among goblins!
+      elitemobs:itemvalue: 99.0d
+- null
+armorInv:
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: ELYTRA
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 1
+- null
+extraInv:
+- ==: org.bukkit.inventory.ItemStack
+  v: 3218
+  type: NETHERITE_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"Goblin
+      Cleaver"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"---------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<"},{"bold":true,"italic":false,"strikethrough":false,"color":"gray","text":"Equip
+      Info"},{"bold":false,"italic":false,"color":"gray","text":">"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"---------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Item
+      level: "},{"italic":false,"color":"white","text":"6 "},{"italic":false,"color":"gray","text":"Prestige
+      "},{"italic":false,"color":"gold","text":"0"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Elite
+      DPS: "},{"italic":false,"color":"dark_green","text":"10.0"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Soulbound
+      to "},{"italic":false,"color":"white","text":"Lugugu"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Looted
+      from "},{"italic":false,"color":"dark_red","text":"「"},{"italic":false,"color":"red","text":"1"},{"italic":false,"color":"dark_red","text":"」"},{"italic":false,"color":"white","text":"
+      "},{"italic":false,"color":"red","text":"Weapons Goblin"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"-----------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<
+      "},{"bold":true,"italic":false,"color":"white","text":"Lore"},{"bold":false,"italic":false,"color":"gray","text":"
+      >"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"-----------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"A
+      treasure among goblins!"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"--------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<"},{"bold":true,"italic":false,"color":"blue","text":"Enchantments"},{"bold":false,"italic":false,"color":"gray","text":">"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"--------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"◇"},{"italic":false,"color":"gray","text":"Knockback
+      1"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"◇"},{"italic":false,"color":"gray","text":"Looting
+      3"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"◇"},{"italic":false,"color":"gray","text":"Smite
+      1"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"----------"},{"bold":false,"italic":false,"strikethrough":false,"color":"gray","text":"<
+      "},{"bold":true,"italic":false,"color":"dark_purple","text":"Effects"},{"bold":false,"italic":false,"color":"gray","text":"
+      >"},{"bold":true,"italic":false,"strikethrough":true,"color":"gray","text":"----------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_purple","text":"◇Poison"},{"italic":false,"color":"dark_red","text":"⚔☠
+      1"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"color":"gray","text":"-----------------------------"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Sells
+      for 4.95 Elite Coins"}],"text":""}'
+    enchants:
+      KNOCKBACK: 1
+      LOOT_BONUS_MOBS: 3
+      DAMAGE_UNDEAD: 1
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES
+    PublicBukkitValues:
+      elitemobs:itemsource: §7Looted from §4「§c1§4」§f §cWeapons Goblin
+      elitemobs:soulbind: fe0742e8-4aca-3e0e-9122-c5e3f7fe4e6a
+      elitemobs:prestige: 0i
+      minecraft:smite: 1i
+      elitemobs:onhitpotioneffect: 'POISON,0,target,onHit:'
+      elitemobs:elitemobsitem: 1b
+      elitemobs:customlore: §8A treasure among goblins!
+      elitemobs:itemvalue: 99.0d
+overflowInv:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
