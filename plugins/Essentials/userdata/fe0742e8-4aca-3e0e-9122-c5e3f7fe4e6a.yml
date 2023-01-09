@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1673167959578
-  login: 1673167875633
+  logout: 1673195085625
+  login: 1673194073964
 money: '0'
 last-account-name: Lugugu
 logoutlocation:
   world: 901fd868-292a-4230-8fef-3319541d6299
   world-name: world
-  x: 24.635810576695153
-  y: 166.0
-  z: -108.74000418282179
-  yaw: -7.950230598449707
-  pitch: 35.55002212524414
+  x: 27.027377238509878
+  y: 178.0
+  z: -134.12704918308745
+  yaw: -25.19954490661621
+  pitch: 51.449737548828125
