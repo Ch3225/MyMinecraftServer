@@ -2,7 +2,7 @@ DataSource:
     # What type of database do you want to use?
     # Valid values: SQLITE, MYSQL, POSTGRESQL
     backend: SQLITE
-    # Enable the database caching system, should be disabled on bungeecord environments
+    # Enable the database caching system, should be disabled on bungeecord environments#
     # or when a website integration is being used.
     caching: true
     # Database host address
